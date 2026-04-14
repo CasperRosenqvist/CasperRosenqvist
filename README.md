@@ -5,7 +5,7 @@ I'm ICT student at LAB University of Applied Sciences and currently working for 
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/casper-r-547bb4228/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/casper-rosenqvist-547bb4228)
 [![Instagram](https://img.shields.io/badge/Instagram-blueviolet)](https://www.instagram.com/casper.rosenqvist/)
 
 <img src="https://github.com/user-attachments/assets/781bcb4b-2778-4626-adb8-6fb32ca029c5" height="300" width="800">
